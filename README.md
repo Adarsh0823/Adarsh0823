@@ -13,11 +13,11 @@ Email:adarsh.b4550@gmail.com
 
 [Cloud Based Data Warehouse Migration](https://github.com/Adarsh0823/Cloud-Based-Data-Warehouse-Migration)
 - Migrated an on-premises database to a cloud-based data warehouse using AWS (RDS, S3) and PostgreSQL, leveraging Databricks ETL pipelines for seamless data transfer and improved scalability.
-- Tools and Technologies:: Python, AWS, Postgre SQL, Databricks.
+- Tools and Technologies: Python, AWS, Postgre SQL, Databricks.
 
 [Retail Sales Forecasting](https://github.com/Adarsh0823/Retail-Sales-Forecasting)
 - Developed a sales forecasting solution using machine learning and time-series analysis to optimize inventory levels and enhance customer satisfaction for retail clients.
-- Tools and Technologies:: Python, Snowflake, Power BI.
+- Tools and Technologies: Python, Snowflake, Power BI.
 
 [Predictive Risk Assessment Model](https://github.com/Adarsh0823/Predictive-Risk-Assessment-Model)
 - Developed a machine learning model to predict high-risk healthcare members, enabling proactive interventions to improve outcomes and reduce costs.
