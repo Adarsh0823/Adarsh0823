@@ -1,10 +1,10 @@
-##Hi there
+Hi there
 Welcome to my GitHub portfolio! I am Adarsh Bachupally, a Business Analyst with over four years of experience in delivering data-driven solutions that improve operational efficiency and support strategic decision-making. My background spans across healthcare, banking, and supply chain domains, where I’ve used my analytical skills to bridge gaps between business goals and technical implementation.
 
-##About Me
+About Me
 I specialize in transforming business challenges into actionable insights using data analytics, process optimization, and cloud-based technologies. My toolkit includes SQL, Python, Power BI, Tableau, and cloud platforms like Azure and AWS. I'm passionate about designing scalable, automated solutions that align with regulatory standards and business objectives.
 
-##Technical Skills
+Technical Skills
 Business Analysis: BRD/FSD Documentation, Use Cases, Gap Analysis, UAT, Risk Assessments
 
 Tools & Platforms: Power BI, Tableau, Microsoft Azure, AWS, JIRA, Confluence, ServiceNow
@@ -23,7 +23,7 @@ Compliance: HIPAA, ISO 9001, Data Governance, Data Validation
 📧 Email: adarsh.b4550@gmail.com
 🔗 LinkedIn
 
-##Featured Projects
+🚀 Featured Projects
 Cloud-Based Healthcare Analytics Dashboard
 Built an interactive dashboard in Power BI for healthcare KPIs including claims, enrollment, and patient outcomes. Enhanced real-time decision-making for clinical and actuarial teams.
 
